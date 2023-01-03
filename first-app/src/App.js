@@ -75,7 +75,7 @@ const App =()=>{
   const[widthSize, setWithSize]=useState(10)
   const[margin, setMargin]=useState(5)
   return (
-    <div className='container'>
+    <div>
     <div style={{
       backgroundColor: backgroundColor,
       width: widthSize+'vw',

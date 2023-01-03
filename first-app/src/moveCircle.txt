@@ -1,0 +1,42 @@
+import './App.css';
+// import React, { useState } from 'react';
+
+
+// const WebApp=()=>{
+// const[PositionX, setPositionX]=useState(10)
+// const[positionY, setPositionY]=useState(10)
+// const shiftPosition=(action)=>{
+//     if(action==='left'){
+//         PositionX > 10? setPositionX-'50':alert('End of border')
+//     }
+//     else if(action==='right'){
+//         positionX < 1300? setPositionX +'50':alert('End of the border')
+//     }
+//     else if(action==='up'){
+//         positionY > 0? setPositionY -'50':alert('End of the border')
+//     }
+//     else{
+//         positionY < 1050? setPositionY +'50':alert('End of the border')
+//     }
+// }
+// return(
+// <>
+// <button onClick={()=>shiftPosition('left')}>Left</button>
+// <button onClick={()=>shiftPostion('right')}>Right</button>
+// <button onClick={()=>shiftPosition('up')}>Up</button>
+// <button onClick={()=>shiftPosition('down')}>Down</button>
+// <div className='something' style={{
+//     backgroundColor: 'greenyellow',
+//     marginTop: positionY+'px',
+//     marginLeft: positionX+'px',
+//     width: '100px',
+//     height: '100px',
+//     borderRadius:'50px'
+// }}>
+
+// </div>
+// </>
+// )
+
+// }
+// export default WebApp
